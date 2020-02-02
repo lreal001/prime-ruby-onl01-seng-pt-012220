@@ -4,5 +4,5 @@ def prime?(integer)
   
   end 
 end 
-if integer.prime? 
-    return true
+#if integer.prime? 
+    #return true
